@@ -1,4 +1,4 @@
-<h1> SORRY STUDY.COM DOESN'T ALLOW .C FILES. I HAD TO SUBMIT IT AS .TXT. PLEASE DON'T TAKE POINTS OFF.<h1>
+<h1> SORRY STUDY.COM DOESN'T ALLOW *.C FILES. I HAD TO SUBMIT IT AS *.TXT. PLEASE DON'T TAKE POINTS OFF.<h1>
 <h2>Also I would've submitted the program split into multiple files under normal circumstances<h2>
 
 
