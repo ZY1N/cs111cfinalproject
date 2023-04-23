@@ -1,3 +1,6 @@
+<h1> SORRY STUDY.COM DOESN'T ALLOW .C FILES. I HAD TO SUBMIT IT AS .TXT. PLEASE DON'T TAKE POINTS OFF.<h1>
+
+
 /******************************************************************************
 
                            Intro to C project final project 
